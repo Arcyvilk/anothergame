@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1234",
+        "status": "inprogress",
+        "players": [
+            {
+                "id": "3456",
+                "role": "agent",
+                "team": "blue",
+                "host": true
+            },
+            {
+                "id": "3457",
+                "role": "boss",
+                "team": "blue",
+                "host": false
+            },
+            {
+                "id": "3458",
+                "role": "boss",
+                "team": "red",
+                "host": false
+            },
+            {
+                "id": "3459",
+                "role": "agent",
+                "team": "blue",
+                "host": false
+            }
+        ]
+    },
+    {
+        "id": "1235",
+        "status": "lobby",
+        "players": [
+            {
+                "id": "3446",
+                "role": "agent",
+                "team": "red",
+                "host": true
+            },
+            {
+                "id": "3447",
+                "role": "boss",
+                "team": "red",
+                "host": false
+            },
+            {
+                "id": "3448",
+                "role": "boss",
+                "team": "red",
+                "host": false
+            },
+            {
+                "id": "3449",
+                "role": "agent",
+                "team": "red",
+                "host": false
+            }
+        ]
+    }
+]
